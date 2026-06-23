@@ -27,7 +27,7 @@ Python · PyTorch · YOLO · UNet · Llama 3 · REST API · Git · PostgreSQL ·
 
 ---
 
-### 🚀 Progetti in evidenza
+### Progetti in evidenza
 
 | Progetto | Descrizione | Tech |
 |---|---|---|
@@ -50,7 +50,7 @@ Python · PyTorch · YOLO · UNet · Llama 3 · REST API · Git · PostgreSQL ·
 
 ---
 
-### 📬 Contatti
+### Contatti
 
 - 📧 paolofusco02@gmail.com  
 - 💼 [linkedin.com/in/pfuscolink](https://linkedin.com/in/pfuscolink)  
