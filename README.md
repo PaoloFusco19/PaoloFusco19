@@ -22,7 +22,7 @@ Cerco opportunità come **AI / ML Engineer**.
 ### 🛠 Stack & tecnologie
 
 ```
-Python · PyTorch · YOLO · UNet · Llama 3 · REST API · Git · PostgreSQL · Linux
+Python · PyTorch · YOLO · UNet · REST API · Git · PostgreSQL · Linux
 ```
 
 ---
@@ -31,12 +31,12 @@ Python · PyTorch · YOLO · UNet · Llama 3 · REST API · Git · PostgreSQL ·
 
 | Progetto | Descrizione | Tech |
 |---|---|---|
-| 🚗 **Object Detection — UA-DETRAC** | YOLOv8 su dataset di vehicle detection in condizioni reali di traffico | YOLO, PyTorch, Python |
+<!--| 🚗 **Object Detection — UA-DETRAC** | YOLOv8 su dataset di vehicle detection in condizioni reali di traffico | YOLO, PyTorch, Python |-->
 | 🔬 **Image Restoration — LBC** | Confronto TV / UNet / DiffPIR su dataset biomedico di citologia | PyTorch, Python |
 | 🤖 **LLM Integration — Steb S.r.l.** | Llama 3.0 via API in app aziendale + forecasting su serie temporali | PyTorch, REST API |
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -49,7 +49,7 @@ Python · PyTorch · YOLO · UNet · Llama 3 · REST API · Git · PostgreSQL ·
 </p>
 
 ---
-
+-->
 ### Contatti
 
 - 📧 paolofusco02@gmail.com  
