@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/pfuscolink"><img src="https://img.shields.io/badge/LinkedIn-pfuscolink-0077B5?style=flat&logo=linkedin" /></a>
   <a href="mailto:paolofusco02@gmail.com"><img src="https://img.shields.io/badge/Email-paolofusco02@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://paolofusco19.github.io"><img src="https://img.shields.io/badge/Portfolio-paolofusco19.github.io-4A90E2?style=flat&logo=github" /></a>
 </p>
 
 ---
