@@ -14,16 +14,16 @@
 
 ### 👨‍💻 Chi sono
 
-AI Engineer in formazione con focus su **Computer Vision**, **Deep Learning** e **LLM integration**.  
-Sto costruendo esperienza pratica su object detection, image restoration e deployment di modelli real-world.  
-Cerco opportunità come **AI / ML Engineer**.
+Magistrando in Informatica presso l'Università degli Studi di Bologna con un background in AI Applicata, Image
+processing e MLOps/Sistemi. Sto costruendo esperienza pratica su object detection, image restoration e deployment di modelli
+di Deep Learning: dai Large Language Models (Llama 3) alle architetture per l'imaging biomedico e object detection. 
 
 ---
 
 ### 🛠 Stack & tecnologie
 
 ```
-Python · PyTorch · YOLO · UNet · REST API · Git · PostgreSQL · Linux
+Python · PyTorch · UNet · REST API · Git · PostgreSQL · Linux
 ```
 
 ---
